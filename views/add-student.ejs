@@ -34,25 +34,76 @@
   </script>
 </head>
 
-<body class="bg-ivory font-poppins min-h-screen flex items-center justify-center">
 
-  <div class="w-full max-w-3xl bg-vanilla border-4 border-ink
-              shadow-[8px_8px_0_0_#343B1B] rounded-2xl p-10">
-<div class="flex items-start justify-between mb-8">
-  <div>
-    <h1 class="text-4xl font-bold text-ink mb-1">SOMA</h1>
-    <p class="text-ink text-sm">Student Information System</p>
+
+
+
+
+
+
+<body class="bg-ivory font-poppins min-h-screen overflow-hidden">
+
+  <div class="absolute inset-0 -z-10">
+
+   
+    <div class="absolute top-[-120px] left-[-100px]
+                w-[420px] h-[420px]
+                bg-green rounded-full
+                blur-[80px] opacity-60"></div>
+
+   
+    <div class="absolute bottom-[-140px] right-[-120px]
+                w-[480px] h-[480px]
+                bg-vanilla rounded-full
+                blur-[90px] opacity-70"></div>
+
+    
+    <div class="absolute top-[20%] right-[15%]
+                w-[220px] h-[220px]
+                bg-[#D1CFE2] rounded-full
+                blur-[60px] opacity-50"></div>
   </div>
 
-  <a href="/read"
-     class="bg-green text-ink px-5 py-2 font-semibold border-2 border-ink
-            shadow-[4px_4px_0_0_#343B1B] rounded-xl
-            hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition">
-    View Students
-  </a>
-</div>
+
+  <section class="min-h-screen flex flex-col items-center justify-center px-6">
+
+    <div class="text-center max-w-2xl mb-14">
+      <h1 class="text-6xl font-extrabold text-ink mb-4 mt-5 tracking-tight">
+        SOMA
+      </h1>
+
+      <p class="text-lg text-ink font-medium mb-3">
+        Student Overview & Management Archive
+      </p>
+
+      <p class="text-sm text-ink opacity-80">
+        Organise student records without the chaos.
+      </p>
+    </div>
+
+  
+    <div class="w-full max-w-3xl bg-vanilla border-4 border-ink
+                shadow-[10px_10px_0_0_#343B1B]
+                rounded-2xl p-10">
+
+     
+      <div class="flex justify-between items-center mb-8">
+       <h2 class="text-2xl font-bold text-ink">
+  Add new Student
+</h2>
 
 
+
+        <a href="/read"
+           class="bg-green text-ink px-5 py-2 font-semibold border-2 border-ink
+                  shadow-[4px_4px_0_0_#343B1B] rounded-xl
+                  hover:translate-x-1 hover:translate-y-1 hover:shadow-none transition">
+          View Students
+        </a>
+      </div>
+
+    
+       
     <form action="/create" method="post"
           class="grid grid-cols-1 md:grid-cols-2 gap-6">
 
@@ -104,7 +155,21 @@
       </div>
 
     </form>
-  </div>
+
+    </div>
+
+  </section>
 
 </body>
+
+
+
+
+
+
+
+
+
+
+
 </html>
