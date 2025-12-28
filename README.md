@@ -116,7 +116,7 @@ Below are some screenshots showcasing the UI and workflow of SOMA.
 *Add new student records using this form layout.*
 
 
-<img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/bc17780d-e358-43d2-a84a-44e5841fa267" />
+<img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/4a78710c-af51-4447-afdd-35ebc47d7d88" />
 
 
 
@@ -124,7 +124,8 @@ Below are some screenshots showcasing the UI and workflow of SOMA.
 
 *View all students in a card-based layout with edit and delete actions.*
 
-<img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/4a78710c-af51-4447-afdd-35ebc47d7d88" />
+<img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/95535047-420f-48e1-bf00-7c5a6df527c0" />
+
 
 
 
