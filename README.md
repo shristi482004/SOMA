@@ -115,29 +115,29 @@ Below are some screenshots showcasing the UI and workflow of SOMA.
 
 *Add new student records using this form layout.*
 
-```
+
 <img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/bc17780d-e358-43d2-a84a-44e5841fa267" />
 
-```
+
 
 ### Students List
 
 *View all students in a card-based layout with edit and delete actions.*
 
-```
+
 <img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/55c6020e-2839-47ff-ae8f-8f2b044682e4" />
 
 
-```
+
 
 ### Edit Student
 
 *Update existing student information using pre-filled editable fields.*
 
-```
+
 <img width="2940" height="1670" alt="image" src="https://github.com/user-attachments/assets/9149ae5c-cc51-47e7-932b-7b41678b4d69" />
 
-```
+
 
 
 
